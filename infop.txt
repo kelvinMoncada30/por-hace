@@ -1,0 +1,11 @@
+hacer el package.json con npm init
+instarlar el yargs y colors   npm install --save yargs colors
+--save para que sean dependcia obligatoria
+con el yargs se crea package-lock y node-modules
+
+carpera nueva por-hacer/por-hacer.js
+
+fs
+crear carperta db/data.json
+
+
